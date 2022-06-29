@@ -9,10 +9,3 @@
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/akira-trinity" />
 </p>
-<p>
-  <h2 align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=akira-trinity&theme=rogue"/></h2>
-</p>
-
-<p>
-  <h2 align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akira-trinity"/></h2>
-</p>
