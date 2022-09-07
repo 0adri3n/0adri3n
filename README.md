@@ -8,6 +8,6 @@
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/akira-trinity" />
 </p>
 
-
+<p align="center">
  [![Discord Presence](https://lanyard.cnrad.dev/api/681445868490063892)](https://discord.com/users/681445868490063892)
-
+</p>
