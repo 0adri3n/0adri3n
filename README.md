@@ -4,8 +4,3 @@
 </p>
 
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/akira-trinity" />
-</p>
-
-
