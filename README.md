@@ -11,7 +11,7 @@
 + discord - 0akira
 ```
 
-<a href="https://0adri3n.github.io">portfolio</a>
+<p align="center"><a target="_blank" href="https://0adri3n.github.io">portfolio</a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0adri3n&label=Profile%20views&color=0e75b6&style=flat" alt="0adri3n" /> </p>
 
