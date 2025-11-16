@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-    <img align="center" height="300" src="https://github.com/user-attachments/assets/ffbe97de-5dd2-4094-b705-c6d26d0066d4"/></h2>
-    <img align="center" height="300" src="https://github.com/user-attachments/assets/8308f4bb-ed94-407c-9240-f4e211e91b29"/></h2>
+  <img align="center" height="341" src="https://github.com/user-attachments/assets/58e8b160-87de-4bb9-aaca-de104296a2a5"/></h2>
 </p>
 
 ```diff
